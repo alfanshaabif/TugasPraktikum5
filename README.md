@@ -97,3 +97,28 @@ while True:                                                                     
     else:
         print("Pilih menu yang tersedia: ")                                                    ## Jika menu yang dipilih tidak valid, akan muncul pesan tsb.
   ```      
+### Screenshot Input
+Input(1)
+<img width="960" alt="Input" src="https://user-images.githubusercontent.com/56286071/72205221-15ef0e00-34b3-11ea-9696-9447f74f2202.png">
+
+Input(2)
+<img width="960" alt="Input2" src="https://user-images.githubusercontent.com/56286071/72205277-a62d5300-34b3-11ea-81ff-191761bc3240.png">
+
+Input(3)
+<img width="960" alt="Input3" src="https://user-images.githubusercontent.com/56286071/72205304-25228b80-34b4-11ea-8507-8048cd9e6aea.png">
+
+Input(4)
+<img width="960" alt="Input4" src="https://user-images.githubusercontent.com/56286071/72205311-3b304c00-34b4-11ea-96d7-e1270f29e517.png">
+
+Input(5)
+<img width="960" alt="Input5" src="https://user-images.githubusercontent.com/56286071/72205319-4e431c00-34b4-11ea-8c12-60ec3d91ce69.png">
+
+### Screenshot Output
+-ADD & LIST
+<img width="960" alt="Output Add dan List" src="https://user-images.githubusercontent.com/56286071/72205398-12f51d00-34b5-11ea-9c36-e37f197b93b2.png">
+
+-SEARCH & EDIT
+<img width="960" alt="Output Search dan Edit" src="https://user-images.githubusercontent.com/56286071/72205401-243e2980-34b5-11ea-8b37-8aae07d3f626.png">
+
+-DELETE & QUIT
+<img width="960" alt="Output Delete dan Quit" src="https://user-images.githubusercontent.com/56286071/72205408-33bd7280-34b5-11ea-8a1a-9897df83690b.png">
