@@ -98,7 +98,7 @@ while True:                                                                     
         print("Pilih menu yang tersedia: ")                                                    ## Jika menu yang dipilih tidak valid, akan muncul pesan tsb.
   ```      
 ### Flowchart
-![flowchart](https://user-images.githubusercontent.com/56286071/72213074-2935c400-351b-11ea-9c2b-6e96c6fb3c51.png)
+![flowchart](https://user-images.githubusercontent.com/56286071/72213297-ed9cf900-351e-11ea-9de2-5b272e1a76ca.png)
 
 
 ### Screenshot Input
