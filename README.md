@@ -97,6 +97,10 @@ while True:                                                                     
     else:
         print("Pilih menu yang tersedia: ")                                                    ## Jika menu yang dipilih tidak valid, akan muncul pesan tsb.
   ```      
+### Flowchart
+![flowchart](https://user-images.githubusercontent.com/56286071/72213074-2935c400-351b-11ea-9c2b-6e96c6fb3c51.png)
+
+
 ### Screenshot Input
 Input(1)
 <img width="960" alt="Input" src="https://user-images.githubusercontent.com/56286071/72205221-15ef0e00-34b3-11ea-9696-9447f74f2202.png">
